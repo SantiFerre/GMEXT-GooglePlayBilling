@@ -1497,7 +1497,7 @@
  * * Query products/subscription/purchase information
  * * Purchase products/subscriptions
  * * Acknowledge/Consume purchases
- * * Verify purchases using signature/own server ([Verification](Quick_Start_Guide#verification))
+ * * Verify purchases using signature/own server ([Verification](quick_start_guide#verification))
  * 
  * @section_end
  * 
@@ -1513,8 +1513,8 @@
  * @section Guides
  * 
  * @desc The following are guides for the Google Play Billing extension: 
- * @ref page.Using_The_Google_Play_IAP_Extension
- * @ref page.Quick_Start_Guide
+ * @ref page.using_the_google_play_iap_extension
+ * @ref page.quick_start_guide
  * 
  * @section_end
  * 

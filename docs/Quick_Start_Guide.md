@@ -439,7 +439,7 @@ switch(_error)
 }
 ```
 
-The main difference is in the [`GPBilling_PurchaseSubscription`](Functions#gpbilling_purchasesubscription) function; this function must be used when we want to purchase an item that is a subscription.
+The main difference is in the [`GPBilling_PurchaseSubscription`](billingclient#gpbilling_purchasesubscription) function; this function must be used when we want to purchase an item that is a subscription.
 
 ## Verification
 
