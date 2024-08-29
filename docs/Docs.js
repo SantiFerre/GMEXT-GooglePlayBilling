@@ -1365,6 +1365,7 @@
  * @member {string} purchaseToken A token that uniquely identifies a purchase for a given item and user pair. This should be used for any server verification.
  * @member {boolean} autoRenewing Indicates whether the subscription renews automatically (will always be `false` for non-subscription purchases).
  * @member {real} acknowledged The acknowledgement state of the in-app product. Possible values are: 0. Yet to be acknowledged, 1. Acknowledged.
+ * @member {real} quantity The quantity of the purchase.
  * @struct_end
  */
 
