@@ -166,6 +166,7 @@ switch(async_load[?"id"])
 					// 	_purchase.purchaseState
 					// 	_purchase.autoRenewing
 					//	_purchase.acknowledged
+					//	_purchase.quantity
 					//
 				}
 			}
