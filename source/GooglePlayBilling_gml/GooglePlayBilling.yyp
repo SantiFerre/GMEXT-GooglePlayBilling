@@ -22,13 +22,13 @@
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/GooglePlayBilling/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
-    {"$GMIncludedFile":"","%Name":"Google Billing Extension.pdf","CopyToMask":-1,"filePath":"datafiles","name":"Google Billing Extension.pdf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"GMEXT-GooglePlayBilling.html","CopyToMask":0,"filePath":"datafiles","name":"GMEXT-GooglePlayBilling.html","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"nodejs-verification-server.zip","CopyToMask":-1,"filePath":"datafiles","name":"nodejs-verification-server.zip","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.800.0.605",
   },
   "name":"GooglePlayBilling",
   "resources":[

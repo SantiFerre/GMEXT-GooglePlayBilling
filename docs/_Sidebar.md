@@ -1,6 +1,6 @@
-* ### [Google Play Billing](Home)
+* ### [Google Play Billing](home)
 * ### Guides
-  * ### ${page.Using_The_Google_Play_IAP_Extension}
-  * ### ${page.Quick_Start_Guide}
+  * ### ${page.using_the_google_play_iap_extension}
+  * ### ${page.quick_start_guide}
 * ### Modules
   * ### ${module.billingclient}
